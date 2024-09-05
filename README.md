@@ -30,12 +30,11 @@ To learn more about Next.js, take a look at the following resources:
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 ## TODO List
+Up to your own discretion! Simply reformat the information existing on the current Columbia University Badminton Website using Aceternity or Tailwind, if you prefer more customization. Choose 1 and work write your name by it.
 
-1. Navigation Bar
-2. Home
-   - d
-   - 
+1. Navigation Bar :white_check_mark:
+2. Home - Bo
 4. Executive Board
 5. Team
 6. Contact Us
-7. 
+
