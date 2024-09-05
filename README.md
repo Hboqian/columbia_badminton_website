@@ -32,6 +32,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## TODO List
 Up to your own discretion! Simply reformat the information existing on the current Columbia University Badminton Website using Aceternity or Tailwind, if you prefer more customization. Choose 1 and work write your name by it.
 
+You can find the Front End of each of these page.tsx inside their own directory, that's how Next.js manages them.
+
 1. Navigation Bar :white_check_mark:
 2. Home - Bo
 4. Executive Board
